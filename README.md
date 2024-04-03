@@ -1,0 +1,1 @@
+# hibernate_logging_log4j_annot
